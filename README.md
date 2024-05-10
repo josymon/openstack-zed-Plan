@@ -1,3 +1,6 @@
+Requirements:
+* Oracle VM Virtual Box : https://www.virtualbox.org/wiki/Downloads 
+* OS: Ubuntu 22.0
 # openstack-zed
 ```
 ------------+--------------------------+--------------------------+------------
